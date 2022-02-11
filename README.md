@@ -24,7 +24,9 @@ Anyone can report occurrences to VAERS, even if it is unclear if the problem was
 
 
 What questions do you have in mind and would like to answer?
+
 Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
+
 What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
 What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?
 What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
