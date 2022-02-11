@@ -22,28 +22,8 @@ Using VAERS data, on the other hand, must be fully informed of the system's stre
 ### Why is this issue important to you and/or to others?
 
 Anyone who has received a vaccine and had an adverse reaction should file a VAERS report online, even though they are unsure that the vaccine is to blame. So we don't know the overall number of vaccinated people. For Example over 543 million doses of COVID-19 vaccines were administered in the United States from December 14, 2020, through February 3, 2022. During this time, VAERS received 12,122 preliminary reports of death (0.0022%) among people who received a COVID-19 vaccine [1]. It is important to analysis the data during this pandemic and be aware of the information regarding the vaccination.
-Anyone can report occurrences to VAERS, even if it is unclear if the problem was caused by a vaccine. As a result, VAERS data cannot be utilized to assess if a reported adverse event was caused by a COVID-19 immunization.# Capstone Data Science 690 (Draft Proposal)
+Anyone can report occurrences to VAERS, even if it is unclear if the problem was caused by a vaccine. As a result, VAERS data cannot be utilized to assess if a reported adverse event was caused by a COVID-19 immunization.
 
-Proposal By :
-
-Sharath Srinivas
-
-Chetan B Desai
-
-Saideep Malgireddy
-
-# Adverse Reaction of Vaccination : Side Effects Clustering and Risk Prediction methods
-
-### What is your issue of interest (provide sufficient background information)?
-
-There are no vaccine, drug or medical devices which are completely free from the side effects. Vaccine protects many people in Fighting the pandemic like Covid-19. So Its important for any healthcare proffesionals or End users of Vaccine must be aware of the side effects and to prevent any life threathening situtaions.
-
-VAERS: Vaccine Adverse Event Reporting System This method is used to gather information about the type of vaccine administered, the duration of vaccination, the onset of the adverse condition, current diseases or medications, prior history of adverse effects, and demographic information if an individual has an adverse reaction to a vaccine. Any health complications after a vaccine are administered expected by statute to be reported to VAERS by all healthcare providers.
-Using VAERS data, on the other hand, must be fully informed of the system's strengths and drawbacks. VAERS data has significant biases. It is impossible to assess the incidence rates and relative risks of various adverse events. Statistical significance tests and confidence intervals should be used with extreme caution to identify the adverse reactions.
-
-### Why is this issue important to you and/or to others?
-
-Anyone who has received a vaccine and had an adverse reaction should file a VAERS report online, even though they are unsure that the vaccine is to blame. So we don't know the overall number of vaccinated people. For Example over 543 million doses of COVID-19 vaccines were administered in the United States from December 14, 2020, through February 3, 2022. During this time, VAERS received 12,122 preliminary reports of death (0.0022%) among people who received a COVID-19 vaccine [1]. It is important to analysis the data during this pandemic and be aware of the information regarding the vaccination. Anyone can report occurrences to VAERS, even if it is unclear if the problem was caused by a vaccine. As a result, VAERS data cannot be utilized to assess if a reported adverse event was caused by a Vaccine immunization. So detail analysis required to identify what would have caused the side effects.
 
 ### What questions do you have in mind and would like to answer?
 1. Can we predict the adverse events associated to vaccine immunization.
@@ -86,7 +66,14 @@ We will be using adverse reactions, medical history, allergies, gender, age, and
 ### What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
 
 NLP will be used for data cleaning to extract medical history and allergies from the patient information.
-We will be using Classification methods such as Random forest, support vector machine, decision tree, K-nearest neighbor and Logistic Regression. Clustring methods like K-Means.
+We will be using Classification methods such as 
+1. Random forest
+2. Support vector machine
+3. Decision tree
+4. K-nearest neighbor
+5. Logistic Regression. 
+
+For Clustring methods adverse event we will use K-Means.
 
 ### How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
 
