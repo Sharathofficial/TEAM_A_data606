@@ -22,7 +22,7 @@ Using VAERS data, on the other hand, must be fully informed of the system's stre
 ### Why is this issue important to you and/or to others?
 
 Anyone who has received a vaccine and had an adverse reaction should file a VAERS report online, even though they are unsure that the vaccine is to blame. So we don't know the overall number of vaccinated people. For Example over 543 million doses of COVID-19 vaccines were administered in the United States from December 14, 2020, through February 3, 2022. During this time, VAERS received 12,122 preliminary reports of death (0.0022%) among people who received a COVID-19 vaccine [1]. It is important to analysis the data during this pandemic and be aware of the information regarding the vaccination.
-Anyone can report occurrences to VAERS, even if it is unclear if the problem was caused by a vaccine. As a result, VAERS data cannot be utilized to assess if a reported adverse event was caused by a COVID-19 immunization.# Capstone Data Science 690 (Draft Proposal)
+Anyone can report occurrences to VAERS, even if it is unclear if the problem was caused by a vaccine. As a result, VAERS data cannot be utilized to assess if a reported adverse event was caused by a COVID-19 immunization.
 
 
 ### What questions do you have in mind and would like to answer?
