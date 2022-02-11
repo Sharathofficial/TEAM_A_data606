@@ -10,7 +10,7 @@ Saideep Malgireddy
 
 # Adverse Reaction of Vaccination : Side Effects Clustering and Risk Prediction methods
 
-![images](https://user-images.githubusercontent.com/60420184/153628674-3a71f712-4f3c-4055-9570-c4a0b5329312.jpg = 250x250)
+![images](https://user-images.githubusercontent.com/60420184/153628674-3a71f712-4f3c-4055-9570-c4a0b5329312.jpg =250x250)
 
 ### What is your issue of interest (provide sufficient background information)?
 
