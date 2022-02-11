@@ -66,7 +66,14 @@ We will be using adverse reactions, medical history, allergies, gender, age, and
 ### What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
 
 NLP will be used for data cleaning to extract medical history and allergies from the patient information.
-We will be using Classification methods such as Random forest, support vector machine, decision tree, K-nearest neighbor and Logistic Regression. Clustring methods like K-Means.
+We will be using Classification methods such as 
+1. Random forest
+2. Support vector machine
+3. Decision tree
+4. K-nearest neighbor
+5. Logistic Regression. 
+
+For Clustring methods adverse event we will use K-Means.
 
 ### How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
 
