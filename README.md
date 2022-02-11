@@ -98,5 +98,6 @@ We plan on providing Web interative application using python Dash for patients a
 
 ## Reference 
 [1]. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/adverse-events.html
+
 [2]. https://pubmed.ncbi.nlm.nih.gov/15071280/
 
